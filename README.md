@@ -1,2 +1,2 @@
 # PCB
-The PCB's for Cal Polt SAE Baja
+The PCB's for Cal Poly SAE Baja
