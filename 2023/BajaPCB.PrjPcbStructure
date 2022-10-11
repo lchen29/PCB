@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=TestSchematic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=TestSchematic.SchDoc|FileName=TestSchematic2.SchDoc|SheetNumber=2
