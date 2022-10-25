@@ -1,0 +1,216 @@
+Importer Log Report
+Project : Microcontroller_sch_v22.PrjPcb
+
+Section : Analyze Document - C:\Users\lukec\Downloads\5223002-2 v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\5223002-2 v1.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\CD1206-B2100 v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\CD1206-B2100 v1.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\CKC21C104KDGLC7805 v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\CKC21C104KDGLC7805 v1.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\Eagle_WE-XTAL (rev21c) v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\Eagle_WE-XTAL (rev21c) v1.lbr
+    Load settings
+    Load layers 53
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 18
+    ERROR: Unhandled typepackages3d
+    Load Symbols 3
+    Load DeviceSets 17
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\ESP8266-12E_ESP-12E v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\ESP8266-12E_ESP-12E v1.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\MCP2515-I_ST v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\MCP2515-I_ST v1.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\SamacSys_Parts v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\SamacSys_Parts v1.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 3
+    Load Symbols 3
+    Load DeviceSets 3
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\SOIC127P599X175-8N v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\SOIC127P599X175-8N v1.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\TEENSY_4.1 v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\TEENSY_4.1 v1.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\TJA1050T_CM_118 v1.lbr
+    Analyzing data of C:\Users\lukec\Downloads\TJA1050T_CM_118 v1.lbr
+    Load settings
+    Load layers 46
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\lukec\Downloads\Microcontroller_sch_v22.sch
+    Analyzing data of C:\Users\lukec\Downloads\Microcontroller_sch_v22.sch
+    Load settings
+    Load layers 148
+    Load schematic
+    Load Libraries 14
+    Load Library "TEENSY_4.1"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Power_Symbols"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "ESP8266-12E_ESP-12E"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "rc-master-smd"
+    Load Packages 14
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "Quad. Diff. Line Receiver"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "08055C104KAT4A"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SamacSys_Parts"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "MCP2515-I_ST"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "TJA1050T_CM_118"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Connector"
+    Load Packages 4
+    ERROR: Unhandled typepackages3d
+    Load Symbols 2
+    Load DeviceSets 2
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "CKC21C104KDGLC7805"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Eagle_WE-XTAL (rev21c)"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    Load Library "CD1206-B2100"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 71
+    Load Sheets 5
+EndSection
