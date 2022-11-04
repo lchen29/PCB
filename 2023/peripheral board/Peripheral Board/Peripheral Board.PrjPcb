@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YLFLVSUW
 
 [Document2]
-DocumentPath=sheet2.SchDoc
+DocumentPath=CurrentSensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
