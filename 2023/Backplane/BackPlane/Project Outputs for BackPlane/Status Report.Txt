@@ -1,0 +1,10 @@
+Output: Cadnetix Netlist
+Type  : CadnetixNetlist
+From  : Project [BackPlane.PrjPcb]
+   Generated File[BackPlane.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:01:18 PM On 11/5/2022
