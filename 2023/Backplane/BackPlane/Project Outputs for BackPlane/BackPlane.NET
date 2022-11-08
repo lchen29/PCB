@@ -1,0 +1,22 @@
+PARTS LIST
+
+DT15-12PA         TE_DT15-12PA    J
+DT15-12PA         TE_DT15-12PA    J
+DT15-12PA         TE_DT15-12PA    J
+DT15-12PA         TE_DT15-12PA    J
+DT15-12PA         TE_DT15-12PA    J
+DT15-12PA         TE_DT15-12PA    J
+DT15-12PA         TE_DT15-12PA    J
+DT15-12PA         TE_DT15-12PA    J
+5223002-2         TE_5223002-2    J?
+5223002-2         TE_5223002-2    J?
+5223002-2         TE_5223002-2    J?
+5223002-2         TE_5223002-2    J?
+EOS
+NET LIST
+
+NODE     5                $
+    J?         2
+NODE     1                $
+    J?         1  J?         3  J?         4
+EOS
