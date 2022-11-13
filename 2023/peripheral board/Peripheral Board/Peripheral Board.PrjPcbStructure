@@ -1,4 +1,4 @@
 Record=TopLevelDocument|FileName=3+6axis.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=3+6axis.SchDoc|FileName=CurrentSensor.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=3+6axis.SchDoc|FileName=PeriphBoard.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=3+6axis.SchDoc|FileName=WheatStoneBridge.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=3+6axis.SchDoc|FileName=PeriphBoard.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=3+6axis.SchDoc|FileName=WheatStoneBridge.SchDoc|SheetNumber=4
