@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LUUDCMNV
 
 [Document2]
-DocumentPath=..\..\Front Breakout\PCB_Project\CAN_module.SchDoc
+DocumentPath=D:\Luke\Downloads\CAN_module.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
