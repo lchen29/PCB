@@ -1,1 +1,2 @@
-Record=TopLevelDocument|FileName=frontBreakoutSchematic.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=CAN_module.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN_module.SchDoc|FileName=RearBreakoutSchematic.SchDoc|SheetNumber=1
