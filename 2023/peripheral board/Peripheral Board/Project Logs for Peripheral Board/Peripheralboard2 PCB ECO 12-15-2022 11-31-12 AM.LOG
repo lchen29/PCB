@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=GND Pin=R1-3
+Add Component: Footprint Not Found 52230042
+Added Component: Designator=R?(FP-3296W-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.395inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Panel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "200kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Cermet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "3296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CERMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.03oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "9.53mm"; VariantName = "[No Variations]"
+Added Component: Designator=U?(P0008A)
+Add component (AddParameter): Name = "Bandwidth at G"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = "110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=INA129&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpdi001b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBOS051B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain(V/V)"; Value = "1 to 10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current (+/-)(Max)(nA)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset (+/-)(Max)(uV)"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Drift (+/-)(Max)(uV/Degrees Celsius)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise at 1kHz(Typ)(nV/rt(Hz))"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Non-Linearity (+/-)(Max)(%)"; Value = "0.004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Offset (+/-)(Max)(uV)"; Value = "1000/G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Offset Drift (+/-)(Max)(uV/Degrees Celsius)"; Value = "20/G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic In-Line, Body 9.59 x 6.35 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "P0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040082/E, 04/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "INA129PA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current (+/-)(Typ)(mA)"; Value = "0.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Dual Supply"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "4.5"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-A1
+Add Pin To Net: Unknown Pin: Pin J1-A2
+Add Pin To Net: Unknown Pin: Pin J1-A3
+Add Pin To Net: Unknown Pin: Pin J1-A4
+Add Pin To Net: Unknown Pin: Pin J1-A5
+Add Pin To Net: Unknown Pin: Pin J1-A6
+Add Pin To Net: Unknown Pin: Pin J1-A7
+Add Pin To Net: Unknown Pin: Pin J1-A8
+Add Pin To Net: Unknown Pin: Pin J1-A9
+Add Pin To Net: Unknown Pin: Pin J1-A10
+Add Pin To Net: Unknown Pin: Pin J1-A11
+Add Pin To Net: Unknown Pin: Pin J1-A12
+Add Pin To Net: Unknown Pin: Pin J1-B1
+Add Pin To Net: Unknown Pin: Pin J1-B2
+Add Pin To Net: Unknown Pin: Pin J1-D7
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetR5_2 Pin=U?-2
+Added Pin To Net: NetName=NetR1_1 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=+5 Pin=U?-7
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-1
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-8
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU?_4 Pin=U?-4
+Added Net: Name=NetU?_4
+Added Pin To Net: NetName=NetU?_6 Pin=U?-6
+Added Net: Name=NetU?_6
+Add Class Member: Failed to add class member : Component J1 5223004-2
+Added Member To Class: ClassName=WheatStoneBridge Member=Component R? Gain Resistor
+Added Member To Class: ClassName=WheatStoneBridge Member=Component U? INA129PA
