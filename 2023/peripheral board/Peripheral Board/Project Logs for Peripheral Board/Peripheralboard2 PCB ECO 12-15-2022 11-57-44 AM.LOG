@@ -1,0 +1,33 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Added Component: Designator=J?(52230042)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5223004&DocType=Customer+Drawing&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "14mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5223004-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-5223004-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5223004-2?qs=oNRo%252BTjlpTO6tP0xSX%252BI3w%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=8.4V Pin=J?-A1
+Added Pin To Net: NetName=8.4V Pin=J?-A2
+Added Pin To Net: NetName=8.4V Pin=J?-A3
+Added Pin To Net: NetName=5V Pin=J?-A4
+Added Pin To Net: NetName=5V Pin=J?-A5
+Added Pin To Net: NetName=5V Pin=J?-A6
+Added Pin To Net: NetName=3.3V Pin=J?-A7
+Added Pin To Net: NetName=3.3V Pin=J?-A8
+Added Pin To Net: NetName=3.3V Pin=J?-A9
+Added Pin To Net: NetName=GND Pin=J?-A10
+Added Pin To Net: NetName=GND Pin=J?-A11
+Added Pin To Net: NetName=GND Pin=J?-A12
+Added Pin To Net: NetName=NetJ1_B1 Pin=J?-B1
+Added Pin To Net: NetName=NetJ1_B2 Pin=J?-B2
+Added Pin To Net: NetName=GND Pin=U7-4
+Change Net Name : Old Net Name=NetJ1_B1 New Net Name=NetJ?_B1
+Change Net Name : Old Net Name=NetJ1_B2 New Net Name=NetJ?_B2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetU?_6 New Net Name=NetU7_6
+Added Pin To Net: NetName=NetJ?_D7 Pin=J?-D7
+Added Pin To Net: NetName=NetJ?_D7 Pin=U4-7
+Added Net: Name=NetJ?_D7
+Added Member To Class: ClassName=UniConnector Member=Component J? 5223004-2
