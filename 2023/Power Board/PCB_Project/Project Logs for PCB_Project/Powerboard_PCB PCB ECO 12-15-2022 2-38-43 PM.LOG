@@ -1,0 +1,51 @@
+Add Component: Footprint Not Found SD2114_AVX
+Add Component: Footprint Not Found SD2114_AVX
+Add Component: Footprint Not Found IND_CTDO1813PF-223HC_CTH
+Add Component: Footprint Not Found POT_PV36W_MUR
+Add Component: Footprint Not Found RESC2012X70N
+Add Component: Footprint Not Found POT_PV36W_MUR
+Add Component: Footprint Not Found RESC2012X60N
+Add Component: Footprint Not Found SOP127P600X170-9N
+Add Component: Footprint Not Found SOP127P600X170-9N
+Add Pin To Net: Unknown Pin: Pin CR1-1
+Add Pin To Net: Unknown Pin: Pin CR1-2
+Add Pin To Net: Unknown Pin: Pin CR2-1
+Add Pin To Net: Unknown Pin: Pin CR2-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R4-3
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R9-3
+Add Pin To Net: Unknown Pin: Pin R-1
+Add Pin To Net: Unknown Pin: Pin R-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U-1
+Add Pin To Net: Unknown Pin: Pin U-2
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Pin To Net: Unknown Pin: Pin U-4
+Add Pin To Net: Unknown Pin: Pin U-5
+Add Pin To Net: Unknown Pin: Pin U-6
+Add Pin To Net: Unknown Pin: Pin U-7
+Add Pin To Net: Unknown Pin: Pin U-8
+Add Pin To Net: Unknown Pin: Pin U-9
+Add Class Member: Failed to add class member : Component CR1 SD2114S040S8R0
+Add Class Member: Failed to add class member : Component CR2 SD2114S040S8R0
+Add Class Member: Failed to add class member : Component L2 CTDO1813PF-223HC
+Add Class Member: Failed to add class member : Component R4 PV36W105C01B00
+Add Class Member: Failed to add class member : Component R5 ERJ-6GEYK156V
+Add Class Member: Failed to add class member : Component R9 PV36W105C01B00
+Add Class Member: Failed to add class member : Component R RC0805JR-071ML
+Add Class Member: Failed to add class member : Component U1 AOZ1284PI
+Add Class Member: Failed to add class member : Component U AOZ1284PI
+Added Room: Name=Powerboard_schematic
