@@ -117,6 +117,23 @@ GenerateClassCluster=0
 DocumentUniqueId=CAUJLRXW
 
 [Document5]
+DocumentPath=..\..\..\..\..\..\Downloads\Altium-Libraries-master\Altium-Libraries-master\Mechanical.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TNELJXPN
+
+[Document6]
 DocumentPath=..\..\Front Breakout\libraries\TEENSY_4.1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,9 +148,26 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AUIKETKE
 
-[Document6]
+[Document7]
+DocumentPath=..\..\..\..\..\..\Downloads\Altium-Libraries-master\Altium-Libraries-master\Mechanical.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OCAVGSUB
+
+[Document8]
 DocumentPath=..\..\Front Breakout\libraries\TEENSY41.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -148,7 +182,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AXBBFTFS
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for back breakout\Design Rule Check - backBreakoutPCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
