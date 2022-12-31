@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=J NewDesignator=J5
+Added Member To Class: ClassName=Backplane Member=Component J2 5223002-2
+Added Member To Class: ClassName=Backplane Member=Component J3 5223002-2
+Added Member To Class: ClassName=Backplane Member=Component J5 6437288-3
+Added Room: Name=Backplane
