@@ -1,0 +1,98 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Added Component: Designator=R1(FP-CRCW0805-e3-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.02R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=R2(FP-CRCW0805-e3-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.02R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=R3(FP-CRCW0805-e3-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.02inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "0.079inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.02R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000194oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=Y(XTAL_ECS-80-20-5PXDU-TR)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ECS Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ECS-80-20-5PXDU-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HC49/US ECS International"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ECS-80-20-5PXDU-TR/ECS%20Inc./view-part/584052/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_4 Pin=R1-1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Pin To Net: NetName=+5 Pin=R3-1
+Added Pin To Net: NetName=NetD_1 Pin=R3-2
+Added Pin To Net: NetName=NetC2_1 Pin=Y-1
+Added Pin To Net: NetName=NetC1_1 Pin=Y-2
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=R1-2
+Added Net: Name=NetJ5_2
+Added Member To Class: ClassName=CAN_module Member=Component R1 120_MCP
+Added Member To Class: ClassName=CAN_module Member=Component R2 10k_MCP1
+Added Member To Class: ClassName=CAN_module Member=Component R3 10k_MCP2
+Added Member To Class: ClassName=CAN_module Member=Component Y ECS-80-20-5PXDU-TR
