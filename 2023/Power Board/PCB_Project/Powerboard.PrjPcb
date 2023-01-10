@@ -65,6 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKGKGMNR
 
+<<<<<<< Updated upstream
 [Document2]
 DocumentPath=PowerboardPrjPcb.Annotation
 AnnotationEnabled=1
@@ -99,6 +100,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGWRITHR
 
+=======
+>>>>>>> Stashed changes
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -112,7 +115,11 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Polycard Printer PS 35-All
+=======
+TargetPrinter=HPD47071 (HP ENVY 5000 series)
+>>>>>>> Stashed changes
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -214,15 +221,19 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
+<<<<<<< Updated upstream
 OutputType21=XSpiceNetlist
 OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+=======
+>>>>>>> Stashed changes
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Polycard Printer PS 35-All
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
@@ -230,6 +241,10 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+=======
+TargetPrinter=HPD47071 (HP ENVY 5000 series)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+>>>>>>> Stashed changes
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -318,7 +333,11 @@ PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Polycard Printer PS 35-All
+=======
+TargetPrinter=HPD47071 (HP ENVY 5000 series)
+>>>>>>> Stashed changes
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -340,7 +359,11 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Polycard Printer PS 35-All
+=======
+TargetPrinter=HPD47071 (HP ENVY 5000 series)
+>>>>>>> Stashed changes
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -412,7 +435,11 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Polycard Printer PS 35-All
+=======
+TargetPrinter=HPD47071 (HP ENVY 5000 series)
+>>>>>>> Stashed changes
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -457,17 +484,24 @@ OutputName8=Report Single Pin Nets
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
+<<<<<<< Updated upstream
 OutputType9=Export Project History
 OutputName9=Export Project History
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+=======
+>>>>>>> Stashed changes
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Polycard Printer PS 35-All
+=======
+TargetPrinter=HPD47071 (HP ENVY 5000 series)
+>>>>>>> Stashed changes
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -575,7 +609,11 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Polycard Printer PS 35-All
+=======
+TargetPrinter=HPD47071 (HP ENVY 5000 series)
+>>>>>>> Stashed changes
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -619,7 +657,11 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Polycard Printer PS 35-All
+=======
+TargetPrinter=HPD47071 (HP ENVY 5000 series)
+>>>>>>> Stashed changes
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -685,7 +727,11 @@ OutputDefault12=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
+<<<<<<< Updated upstream
 TargetPrinter=Polycard Printer PS 35-All
+=======
+TargetPrinter=HPD47071 (HP ENVY 5000 series)
+>>>>>>> Stashed changes
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
