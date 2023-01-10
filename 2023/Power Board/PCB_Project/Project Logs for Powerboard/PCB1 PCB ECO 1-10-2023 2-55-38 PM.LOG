@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Added Component: Designator=CR1(SD2114_AVX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "478-7817-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "478-7817-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "478-7817-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SD2114S040S8R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=CR2(SD2114_AVX)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "478-7817-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "478-7817-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "478-7817-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SD2114S040S8R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 691213510002
+Add Component: Footprint Not Found 691213510002
+Add Component: Footprint Not Found 691213510002
+Add Component: Footprint Not Found 691213510002
+Added Pin To Net: NetName=NetC2_2 Pin=CR1-1
+Added Pin To Net: NetName=GND Pin=CR1-2
+Added Pin To Net: NetName=NetC7_2 Pin=CR2-1
+Added Pin To Net: NetName=GND Pin=CR2-2
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=NetJ?_1 Pin=R10-1
+Added Pin To Net: NetName=NetJ?_1 Pin=R11-2
+Added Net: Name=NetJ?_1
+Added Member To Class: ClassName=Powerboard_schematic Member=Component CR1 SD2114S040S8R0
+Added Member To Class: ClassName=Powerboard_schematic Member=Component CR2 SD2114S040S8R0
+Add Class Member: Failed to add class member : Component J? 691213510002
+Add Class Member: Failed to add class member : Component J? 691213510002
+Add Class Member: Failed to add class member : Component J? 691213510002
+Add Class Member: Failed to add class member : Component J? 691213510002
+Added Room: Name=Powerboard_schematic
