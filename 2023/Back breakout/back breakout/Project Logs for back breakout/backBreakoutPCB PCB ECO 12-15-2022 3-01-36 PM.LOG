@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=CAN_module Member=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetJ6_2
+Added Member To Class: ClassName=CAN_module Member=Component J6 TSW-102-07-L-S
