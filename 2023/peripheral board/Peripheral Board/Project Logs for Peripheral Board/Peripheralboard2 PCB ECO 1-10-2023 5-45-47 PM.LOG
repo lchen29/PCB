@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=8.4V Pin=U4-8
+Change Component Designator: OldDesignator=C1 NewDesignator=C5
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C7
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C9
+Change Component Designator: OldDesignator=C6 NewDesignator=C10
+Change Component Designator: OldDesignator=C7 NewDesignator=C11
+Change Component Designator: OldDesignator=C8 NewDesignator=C12
+Added Component: Designator=C1(CAPC2013X145X48ML20T23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805Y103KXBBC31"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2013X145X48ML20T23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805Y103KXBBC31"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2013X145X48ML20T23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805Y103KXBBC31"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2013X145X48ML20T23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805Y103KXBBC31"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=3.3V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=3.3V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=3.3V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=5V Pin=R4-2
+Added Pin To Net: NetName=5V Pin=R5-1
+Added Pin To Net: NetName=8.4V Pin=U4-1
+Added Pin To Net: NetName=5V Pin=U4-8
+Added Pin To Net: NetName=5V Pin=U7-7
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC9_1
+Added Pin To Net: NetName=NetJ?_D9 Pin=J?-D9
+Added Net: Name=NetJ?_D9
+Added Pin To Net: NetName=NetJ?_D10 Pin=J?-D10
+Added Net: Name=NetJ?_D10
+Added Member To Class: ClassName=3+6axis Member=Component C2 .1uF
+Added Member To Class: ClassName=3+6axis Member=Component C3 1uF
+Added Member To Class: ClassName=3+6axis Member=Component C4 .1uF
+Added Member To Class: ClassName=3+6axis Member=Component C5 .1uF
+Added Member To Class: ClassName=CurrentSensor Member=Component C11 10uF
+Added Room: Name=3+6axis
+Added Room: Name=CurrentSensor
+Added Room: Name=PA1616D
+Added Room: Name=UniConnector
+Added Room: Name=WheatStoneBridge
