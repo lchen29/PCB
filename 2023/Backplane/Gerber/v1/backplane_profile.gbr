@@ -1,0 +1,15 @@
+%FSTAX23Y23*%
+%MOIN*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD34C,0.001000*%
+%LNbackplane_profile-1*%
+%LPD*%
+G54D34*
+X055Y0D02*
+Y03D01*
+X0*
+Y0*
+X055*
+M02*
