@@ -1,0 +1,17 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\circu\Documents\Cal Poly Racing Baja\PCB\2023\Backplane\Gerber\v1\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0079		154
+ 2 		0.0280		37
+ 3 		0.0285		240
+ 4 		0.0512		60
+ 5 		0.1299		3
+ 6 		0.1300		4

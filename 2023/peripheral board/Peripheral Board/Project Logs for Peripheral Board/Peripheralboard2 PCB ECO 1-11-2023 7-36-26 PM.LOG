@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=Sensor-1
+Removed Member From Class: ClassName=WheatStoneBridge Member=Sensor
+Added Pin To Net: NetName=GND Pin=J?-D9
+Added Pin To Net: NetName=GND Pin=J?-D10
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Room: Name=3+6axis
+Added Room: Name=CurrentSensor
+Added Room: Name=PA1616D
+Added Room: Name=UniConnector
+Added Room: Name=WheatStoneBridge
