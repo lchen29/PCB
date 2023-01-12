@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=NetC8_2 Pin=L2-1
+Removed Pin From Net: NetName=NetC7_2 Pin=L2-2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Added Component: Designator=L?(0402-A)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "4161-CTDO1813PF-223HC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CTDO1813PF-223HC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Central Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_2 Pin=L?-1
+Added Pin To Net: NetName=NetC7_2 Pin=L?-2
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ2_1
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C1 08055C104K4Z2A
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C2 08055C104K4Z2A
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C3 08055C104K4Z2A
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C4 08055C104K4Z2A
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C5 08055C104K4Z2A
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C6 08055C104K4Z2A
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C7 08055C104K4Z2A
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C8 08055C104K4Z2A
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C10 08055C104K4Z2A
+Added Member To Class: ClassName=Powerboard_schematic Member=Component C50 VJ0805A1R0CXACW1BC
+Added Member To Class: ClassName=Powerboard_schematic Member=Component CR1 SD2114S040S8R0
+Added Member To Class: ClassName=Powerboard_schematic Member=Component CR2 SD2114S040S8R0
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J1 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J2 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J3 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J4 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component L1 CTDO1813PF-223HC
+Added Member To Class: ClassName=Powerboard_schematic Member=Component L? CTDO1813PF-223HC
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R1 CRCW08051M00FKEA
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R2 CRCW08051M00FKEA
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R3 CRCW08051M00FKEA
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R4 PV36W105C01B00
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R6 CRCW08051M00FKEA
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R7 CRCW08051M00FKEA
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R8 CRCW08051M00FKEA
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R9 PV36W105C01B00
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R10 CRCW08051M00FKEA
+Added Member To Class: ClassName=Powerboard_schematic Member=Component R11 CRCW08051M00FKEA
+Added Member To Class: ClassName=Powerboard_schematic Member=Component U1 AOZ1284PI
+Added Member To Class: ClassName=Powerboard_schematic Member=Component U AOZ1284PI
+Added Room: Name=Powerboard_schematic

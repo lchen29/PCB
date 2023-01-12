@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Add Component: Footprint Not Found TRIM_PV36W105C01B00
+Add Component: Footprint Not Found TRIM_PV36W105C01B00
+Add Component: Footprint Not Found SOP127P600X170-9N
+Add Component: Footprint Not Found SOP127P600X170-9N
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R4-3
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R9-3
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U-1
+Add Pin To Net: Unknown Pin: Pin U-2
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Pin To Net: Unknown Pin: Pin U-4
+Add Pin To Net: Unknown Pin: Pin U-5
+Add Pin To Net: Unknown Pin: Pin U-6
+Add Pin To Net: Unknown Pin: Pin U-7
+Add Pin To Net: Unknown Pin: Pin U-8
+Add Pin To Net: Unknown Pin: Pin U-9
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ2_1
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J2 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J3 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J4 691213510002
+Add Class Member: Failed to add class member : Component R4 PV36W105C01B00
+Add Class Member: Failed to add class member : Component R9 PV36W105C01B00
+Add Class Member: Failed to add class member : Component U1 AOZ1284PI
+Add Class Member: Failed to add class member : Component U AOZ1284PI
+Added Room: Name=Powerboard_schematic

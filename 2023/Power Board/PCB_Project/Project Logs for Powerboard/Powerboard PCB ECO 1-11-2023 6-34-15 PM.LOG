@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Added Component: Designator=L?(0402-A)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "4161-CTDO1813PF-223HC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CTDO1813PF-223HC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Central Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_2 Pin=L?-1
+Added Pin To Net: NetName=NetC7_2 Pin=L?-2
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ2_1
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J1 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J2 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J3 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component J4 691213510002
+Added Member To Class: ClassName=Powerboard_schematic Member=Component L? CTDO1813PF-223HC
