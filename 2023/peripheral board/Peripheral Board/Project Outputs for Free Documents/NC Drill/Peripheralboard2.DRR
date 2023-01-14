@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Peripheralboard2.PcbDoc   1/14/2023  12:32:12 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Peripheralboard2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             6         PTH        30.38mm (1.20inch)
+T2      0.711mm (28mil)                                           Round             43        PTH        473.65mm (18.65inch)
+T3      0.725mm (29mil)                                           Round             60        PTH        140.00mm (5.51inch)
+T4      0.85mm (33mil)                                            Round             4         PTH        29.85mm (1.18inch)
+T5      0.9mm (35mil)                                             Round             8         PTH        22.86mm (0.90inch)
+T6      1.1mm (43mil)                                             Round             6         PTH        20.70mm (0.81inch)
+T7      2.54mm (100mil)                                           Round             2         PTH        12.00mm (0.47inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              129
+
+Total Processing Time (hh:mm:ss) : 00:00:00
