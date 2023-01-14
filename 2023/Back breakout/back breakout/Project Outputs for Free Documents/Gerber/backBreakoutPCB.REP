@@ -1,0 +1,270 @@
+*************************************************************
+FileName = backBreakoutPCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 13
+      File : backBreakoutPCB.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D12
+    D13
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : backBreakoutPCB.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : backBreakoutPCB.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : backBreakoutPCB.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : backBreakoutPCB.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D11
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : backBreakoutPCB.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : backBreakoutPCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : backBreakoutPCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D17
+    D18
+    D19
+    D20
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : backBreakoutPCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : backBreakoutPCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : backBreakoutPCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D26
+    D27
+    D29
+    D30
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : backBreakoutPCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D29
+    D30
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : backBreakoutPCB.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : backBreakoutPCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D29
+    D30
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : backBreakoutPCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D26
+    D27
+    D29
+    D30
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+

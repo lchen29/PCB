@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: backBreakoutPCB.PcbDoc   1/14/2023  12:36:17 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : backBreakoutPCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.9mm (35mil)                                             Round             20        PTH        82.55mm (3.25inch)
+T2      1.02mm (40mil)                                            Round             2         PTH        2.54mm (0.10inch)
+T3      1.1mm (43mil)                                             Round             3         PTH        5.08mm (0.20inch)
+T4      1.11mm (44mil)                                            Round             59        PTH        206.27mm (8.12inch)
+T5      3mm (118mil)                                              Round             4         PTH        124.46mm (4.90inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              88
+
+Total Processing Time (hh:mm:ss) : 00:00:00
