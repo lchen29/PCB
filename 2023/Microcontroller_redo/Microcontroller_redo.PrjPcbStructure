@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=CAN_module.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CAN_module.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN_module.SchDoc|FileName=Sheet2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CAN_module.SchDoc|FileName=Sheet3.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAN_module.SchDoc|FileName=UniConnector.SchDoc|SheetNumber=4
