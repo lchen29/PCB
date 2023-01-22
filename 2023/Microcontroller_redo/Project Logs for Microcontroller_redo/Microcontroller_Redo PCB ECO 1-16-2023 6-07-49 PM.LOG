@@ -1,0 +1,12 @@
+Add Component: Footprint Not Found 52230042
+Add Component: Footprint Not Found XTAL_ECS-80-20-5PXDU-TR
+Add Pin To Net: Unknown Pin: Pin Y-1
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=CAN_module Member=Component C? 22pf_MCP1
+Added Member To Class: ClassName=CAN_module Member=Component C? 22pf_MCP2
+Added Member To Class: ClassName=CAN_module Member=Component C? 10uf_MCP
+Add Class Member: Failed to add class member : Component J1 5223004-2
+Added Member To Class: ClassName=CAN_module Member=Component R? 120_MCP
+Added Member To Class: ClassName=CAN_module Member=Component R? 10k_MCP1
+Add Class Member: Failed to add class member : Component Y ECS-80-20-5PXDU-TR
