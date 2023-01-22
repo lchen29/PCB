@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=8.4V Pin=J?-A1
+Removed Pin From Net: NetName=8.4V Pin=J?-A2
+Removed Pin From Net: NetName=8.4V Pin=J?-A3
+Removed Pin From Net: NetName=5V Pin=J?-A4
+Removed Pin From Net: NetName=5V Pin=J?-A5
+Removed Pin From Net: NetName=5V Pin=J?-A6
+Removed Pin From Net: NetName=3.3V Pin=J?-A7
+Removed Pin From Net: NetName=3.3V Pin=J?-A8
+Removed Pin From Net: NetName=3.3V Pin=J?-A9
+Removed Pin From Net: NetName=GND Pin=J?-A10
+Removed Pin From Net: NetName=GND Pin=J?-A11
+Removed Pin From Net: NetName=GND Pin=J?-A12
+Removed Pin From Net: NetName=NetJ?_B1 Pin=J?-B1
+Removed Pin From Net: NetName=NetJ?_B2 Pin=J?-B2
+Removed Pin From Net: NetName=GND Pin=J?-D10
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=5V Pin=R4-2
+Removed Pin From Net: NetName=5V Pin=R5-1
+Removed Pin From Net: NetName=NetR2_1 Pin=U7-1
+Removed Pin From Net: NetName=GND Pin=U7-4
+Removed Pin From Net: NetName=GND Pin=U7-5
+Removed Pin From Net: NetName=NetU7_6 Pin=U7-6
+Removed Pin From Net: NetName=5V Pin=U7-7
+Removed Pin From Net: NetName=NetR2_2 Pin=U7-8
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Component: Designator=U7(P0008A)
+Add component (AddParameter): Name = "Bandwidth at G"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CMRR(Min)(dB)"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=INA128&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpdi001b"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBOS051B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain(V/V)"; Value = "1 to 10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current (+/-)(Max)(nA)"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset (+/-)(Max)(uV)"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Drift (+/-)(Max)(uV/Degrees Celsius)"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Noise at 1kHz(Typ)(nV/rt(Hz))"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Non-Linearity (+/-)(Max)(%)"; Value = "0.002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Offset (+/-)(Max)(uV)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Offset Drift (+/-)(Max)(uV/Degrees Celsius)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin Plastic In-Line, Body 9.59 x 6.35 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "P0008A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4040082/E, 04/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "INA128P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current (+/-)(Typ)(mA)"; Value = "0.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Dual Supply"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Max)(V)"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vs(Min)(V)"; Value = "4.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-B10
+Added Pin To Net: NetName=NetJ?_B2 Pin=J1-D1
+Added Pin To Net: NetName=NetJ?_B1 Pin=J1-D2
+Added Pin To Net: NetName=8.4V Pin=J1-E1
+Added Pin To Net: NetName=8.4V Pin=J1-E2
+Added Pin To Net: NetName=8.4V Pin=J1-E3
+Added Pin To Net: NetName=5V Pin=J1-E4
+Added Pin To Net: NetName=5V Pin=J1-E5
+Added Pin To Net: NetName=5V Pin=J1-E6
+Added Pin To Net: NetName=3.3V Pin=J1-E7
+Added Pin To Net: NetName=3.3V Pin=J1-E8
+Added Pin To Net: NetName=3.3V Pin=J1-E9
+Added Pin To Net: NetName=GND Pin=J1-E10
+Added Pin To Net: NetName=GND Pin=J1-E11
+Added Pin To Net: NetName=GND Pin=J1-E12
+Added Pin To Net: NetName=NetR2_1 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=NetU7_6 Pin=U7-6
+Added Pin To Net: NetName=5V Pin=U7-7
+Added Pin To Net: NetName=NetR2_2 Pin=U7-8
+Change Net Name : Old Net Name=NetJ?_B1 New Net Name=NetJ1_D2
+Change Net Name : Old Net Name=NetJ?_B2 New Net Name=NetJ1_D1
+Added Pin To Net: NetName=NetJ1_B7 Pin=J1-B7
+Added Pin To Net: NetName=NetJ1_B7 Pin=U4-7
+Added Net: Name=NetJ1_B7
+Added Pin To Net: NetName=NetJ1_B9 Pin=J1-B9
+Added Pin To Net: NetName=NetJ1_B9 Pin=U7-2
+Added Net: Name=NetJ1_B9
+Added Class: Name=Amplifier
+Added Room: Name=Amplifier
+Added Room: Name=UniConnector

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\kylet\Documents\GitHub\PCB\2023\peripheral board\Peripheral Board\Peripheralboard2.PcbDoc
-Date     : 1/11/2023
-Time     : 7:40:35 PM
+Date     : 1/22/2023
+Time     : 3:41:14 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -10,12 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C5-1(12.029mm,22.86mm) on Top Layer And Pad C2-2(12.029mm,29.654mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-6(20.955mm,34.822mm) on Top Layer And Pad U1-3(22.117mm,34.159mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-7(20.455mm,34.822mm) on Top Layer And Pad U1-6(20.955mm,34.822mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-3(20.319mm,25.404mm) on Top Layer And Pad U1-7(20.455mm,34.822mm) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U3-12(35.739mm,45.319mm) on Top Layer And Pad U3-19(35.739mm,57.219mm) on Top Layer 
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -78,23 +73,18 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
 Rule Violations :42
 
 Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Pad R4-1(57.912mm,31.242mm) on Multi-Layer And Track (58.953mm,31.242mm)(59.182mm,31.242mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.241mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Pad R4-2(65.532mm,31.242mm) on Multi-Layer And Track (64.262mm,31.242mm)(64.491mm,31.242mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.241mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Pad R5-1(65.786mm,16.637mm) on Multi-Layer And Track (64.516mm,16.637mm)(64.745mm,16.637mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.241mm]
-   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Pad R5-2(58.166mm,16.637mm) on Multi-Layer And Track (59.207mm,16.637mm)(59.436mm,16.637mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.241mm]
-Rule Violations :4
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
-   Violation between Net Antennae: Track (26.582mm,74.419mm)(28.705mm,74.419mm) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 52
+Violations Detected : 42
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
