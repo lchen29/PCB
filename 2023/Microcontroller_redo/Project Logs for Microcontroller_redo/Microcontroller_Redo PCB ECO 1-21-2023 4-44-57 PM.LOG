@@ -1,0 +1,13 @@
+Added Component: Designator=C6(CAPC2013X145X50NL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805A220GXXCW1BC"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2013X145X50NL20T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805A220GXXCW1BC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5 Pin=C7-2
+Added Member To Class: ClassName=CAN_module Member=Component C6 10uf_TJA
+Added Member To Class: ClassName=CAN_module Member=Component C7 0.1uf_TJA
+Added Member To Class: ClassName=UniConnector Member=Component J4 TSW-102-07-L-S

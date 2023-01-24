@@ -1,0 +1,21 @@
+Added Component: Designator=C13(CAPC2013X145X48ML20T23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805Y103KXBBC31"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC2013X145X48ML20T23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805Y103KXBBC31"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=5V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetJ1_A1 Pin=J1-A1
+Added Pin To Net: NetName=NetJ1_A1 Pin=U7-6
+Added Net: Name=NetJ1_A1
+Added Member To Class: ClassName=Amplifier Member=Component C13 1uF
+Added Member To Class: ClassName=Amplifier Member=Component C14 .1uF
+Added Member To Class: ClassName=Amplifier Member=Component U7 INA128P
+Added Room: Name=3+6axis
+Added Room: Name=Amplifier
+Added Room: Name=CurrentSensor
+Added Room: Name=PA1616D
+Added Room: Name=UniConnector
