@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetJ1_41 Pin=J5-18
+Removed Pin From Net: NetName=NetJ1_42 Pin=J5-19
+Added Pin To Net: NetName=NetJ1_45 Pin=J5-18
+Added Pin To Net: NetName=NetJ1_46 Pin=J5-19
+Added Pin To Net: NetName=NetJ1_35 Pin=J1-35
+Added Pin To Net: NetName=NetJ1_35 Pin=J2-35
+Added Pin To Net: NetName=NetJ1_35 Pin=J3-35
+Added Pin To Net: NetName=NetJ1_35 Pin=J4-35
+Added Net: Name=NetJ1_35
+Added Pin To Net: NetName=NetJ1_36 Pin=J1-36
+Added Pin To Net: NetName=NetJ1_36 Pin=J2-36
+Added Pin To Net: NetName=NetJ1_36 Pin=J3-36
+Added Pin To Net: NetName=NetJ1_36 Pin=J4-36
+Added Net: Name=NetJ1_36
+Added Pin To Net: NetName=NetJ1_44 Pin=J1-44
+Added Pin To Net: NetName=NetJ1_44 Pin=J2-44
+Added Pin To Net: NetName=NetJ1_44 Pin=J3-44
+Added Pin To Net: NetName=NetJ1_44 Pin=J4-44
+Added Net: Name=NetJ1_44
+Added Pin To Net: NetName=NetJ1_57 Pin=J1-57
+Added Pin To Net: NetName=NetJ1_57 Pin=J2-57
+Added Pin To Net: NetName=NetJ1_57 Pin=J3-57
+Added Pin To Net: NetName=NetJ1_57 Pin=J4-57
+Added Net: Name=NetJ1_57
+Added Pin To Net: NetName=NetJ1_58 Pin=J1-58
+Added Pin To Net: NetName=NetJ1_58 Pin=J2-58
+Added Pin To Net: NetName=NetJ1_58 Pin=J3-58
+Added Pin To Net: NetName=NetJ1_58 Pin=J4-58
+Added Net: Name=NetJ1_58
+Added Pin To Net: NetName=NetJ1_59 Pin=J1-59
+Added Pin To Net: NetName=NetJ1_59 Pin=J2-59
+Added Pin To Net: NetName=NetJ1_59 Pin=J3-59
+Added Pin To Net: NetName=NetJ1_59 Pin=J4-59
+Added Net: Name=NetJ1_59
+Added Pin To Net: NetName=NetJ1_60 Pin=J1-60
+Added Pin To Net: NetName=NetJ1_60 Pin=J2-60
+Added Pin To Net: NetName=NetJ1_60 Pin=J3-60
+Added Pin To Net: NetName=NetJ1_60 Pin=J4-60
+Added Net: Name=NetJ1_60
+Added Room: Name=Backplane
