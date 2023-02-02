@@ -1,0 +1,36 @@
+Added Component: Designator=U8(DIP10)
+Added Component: Designator=U10(DIP10)
+Added Component: Designator=U11(DIP10)
+Added Pin To Net: NetName=NetR6_2 Pin=U8-1
+Added Pin To Net: NetName=NetR20_2 Pin=U8-2
+Added Pin To Net: NetName=NetR14_2 Pin=U8-3
+Added Pin To Net: NetName=NetB1_2 Pin=U8-4
+Added Pin To Net: NetName=NetR8_2 Pin=U8-5
+Added Pin To Net: NetName=NetR16_2 Pin=U8-6
+Added Pin To Net: NetName=NetR18_2 Pin=U8-7
+Added Pin To Net: NetName=NetR4_2 Pin=U8-8
+Added Pin To Net: NetName=NetB1_1 Pin=U8-9
+Added Pin To Net: NetName=NetR2_2 Pin=U8-10
+Added Pin To Net: NetName=NetR7_2 Pin=U10-1
+Added Pin To Net: NetName=NetR21_2 Pin=U10-2
+Added Pin To Net: NetName=NetR15_2 Pin=U10-3
+Added Pin To Net: NetName=NetB1_6 Pin=U10-4
+Added Pin To Net: NetName=NetR9_2 Pin=U10-5
+Added Pin To Net: NetName=NetR17_2 Pin=U10-6
+Added Pin To Net: NetName=NetR19_2 Pin=U10-7
+Added Pin To Net: NetName=NetR5_2 Pin=U10-8
+Added Pin To Net: NetName=NetB1_5 Pin=U10-9
+Added Pin To Net: NetName=NetR3_2 Pin=U10-10
+Added Pin To Net: NetName=NetR27_2 Pin=U11-1
+Added Pin To Net: NetName=NetR37_2 Pin=U11-2
+Added Pin To Net: NetName=NetR31_2 Pin=U11-3
+Added Pin To Net: NetName=NetB1_8 Pin=U11-4
+Added Pin To Net: NetName=NetR29_2 Pin=U11-5
+Added Pin To Net: NetName=NetR33_2 Pin=U11-6
+Added Pin To Net: NetName=NetR35_2 Pin=U11-7
+Added Pin To Net: NetName=NetR25_2 Pin=U11-8
+Added Pin To Net: NetName=NetB1_7 Pin=U11-9
+Added Pin To Net: NetName=NetR23_2 Pin=U11-10
+Added Member To Class: ClassName=SEX Member=Component U8 Dual Seven Segment Display
+Added Member To Class: ClassName=SEX Member=Component U10 Dual Seven Segment Display
+Added Member To Class: ClassName=SEX Member=Component U11 Dual Seven Segment Display
