@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=connectors Member=J6
+Change Component Designator: OldDesignator=TEENSY 4.1 NewDesignator=B1
+Added Pin To Net: NetName=NetB1_26 Pin=B1-26
+Added Pin To Net: NetName=NetB1_26 Pin=J5-2
+Added Net: Name=NetB1_26
+Added Pin To Net: NetName=NetB1_27 Pin=B1-27
+Added Pin To Net: NetName=NetB1_27 Pin=J5-3
+Added Net: Name=NetB1_27
+Added Pin To Net: NetName=NetB1_28 Pin=B1-28
+Added Pin To Net: NetName=NetB1_28 Pin=J5-4
+Added Net: Name=NetB1_28
+Added Member To Class: ClassName=connectors Member=Component J5 B4B-XH-A(LF)(SN)
+Added Member To Class: ClassName=CAN_module Member=Component R3 10k_MCP2
