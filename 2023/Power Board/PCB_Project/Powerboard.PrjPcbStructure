@@ -1,3 +1,2 @@
-Record=TopLevelDocument|FileName=Powerboard_schematic.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Powerboard_schematic.SchDoc|FileName=PowerboardV2.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Powerboard_schematic.SchDoc|FileName=Sheet1.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=PowerboardV2.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=PowerboardV2.SchDoc|FileName=PowerboardV2Sheet2.SchDoc|SheetNumber=2
