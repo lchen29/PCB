@@ -1,0 +1,18 @@
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Added Component: Designator=J15(19774772)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=598501"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1977477-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1977477-2/TE%20Connectivity%20AMP%20Connectors/view-part/598501/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC16_1 Pin=J15-1
+Added Pin To Net: NetName=GND Pin=J15-2
+Added Member To Class: ClassName=PowerboardV2Sheet2 Member=Component J15 8.4 in

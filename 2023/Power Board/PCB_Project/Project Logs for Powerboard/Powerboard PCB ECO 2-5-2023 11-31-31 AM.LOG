@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=NetJ4_1 Pin=L5-1
+Removed Pin From Net: NetName=NetJ2_1 Pin=L6-1
+Removed Pin From Net: NetName=NetJ5_1 Pin=L7-1
+Removed Pin From Net: NetName=NetJ3_1 Pin=L8-1
+Removed Pin From Net: NetName=NetL6_2 Pin=U4-3
+Removed Pin From Net: NetName=NetL6_2 Pin=U4-4
+Removed Pin From Net: NetName=NetL8_2 Pin=U4-5
+Removed Pin From Net: NetName=NetL8_2 Pin=U4-6
+Removed Pin From Net: NetName=NetL5_2 Pin=U5-1
+Removed Pin From Net: NetName=NetL5_2 Pin=U5-2
+Removed Pin From Net: NetName=NetL7_2 Pin=U5-3
+Removed Pin From Net: NetName=NetL7_2 Pin=U5-4
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Component Comment : Designator=J10 Old Comment=1977477-2 New Comment=2.25V out
+Change Component Comment : Designator=J7 Old Comment=1977477-2 New Comment=Battery in (36V)
+Change Component Comment : Designator=J4 Old Comment=1977477-2 New Comment=Motor winding 1.2
+Change Component Comment : Designator=J5 Old Comment=1977477-2 New Comment=Motor winding 2.2
+Change Component Comment : Designator=J2 Old Comment=1977477-2 New Comment=Motor winding 2
+Change Component Comment : Designator=J6 Old Comment=1977477-2 New Comment=Motor winding 3.2
+Change Component Comment : Designator=J3 Old Comment=1977477-2 New Comment=Motor winding 3
+Change Component Comment : Designator=J8 Old Comment=1977477-2 New Comment=Solenoid 1
+Change Component Comment : Designator=J9 Old Comment=1977477-2 New Comment=Solenoid 2
+Change Component Comment : Designator=J11 Old Comment=1977477-2 New Comment=Solenoid 3
+Change Component Comment : Designator=J12 Old Comment=1977477-2 New Comment=Solenoid 4
+Change Component Comment : Designator=L4 Old Comment=744732015 New Comment=4.7 µH
+Change Component Comment : Designator=L5 Old Comment=744732015 New Comment=4.7 µH
+Change Component Comment : Designator=L6 Old Comment=744732015 New Comment=4.7 µH
+Change Component Comment : Designator=L7 Old Comment=744732015 New Comment=4.7 µH
+Change Component Comment : Designator=L8 Old Comment=744732015 New Comment=4.7 µH
+Change Component Comment : Designator=L9 Old Comment=744732015 New Comment=4.7 µH
+Change Component Comment : Designator=J14 Old Comment=B3B-XH-A(LF)(SN) New Comment=Hall in 1
+Change Component Comment : Designator=J13 Old Comment=B3B-XH-A(LF)(SN) New Comment=Hall in 2
+Change Managed Component Library Link : Designator=L4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=17D8165B-A139-4395-9E11-0E8742867DA1 New ItemGUID= Old RevisionGUID=D816CC1A-904D-42B7-81F4-C1A8650FA75B New RevisionGUID=
+Change Managed Component Library Link : Designator=L5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=17D8165B-A139-4395-9E11-0E8742867DA1 New ItemGUID= Old RevisionGUID=D816CC1A-904D-42B7-81F4-C1A8650FA75B New RevisionGUID=
+Change Managed Component Library Link : Designator=L6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=17D8165B-A139-4395-9E11-0E8742867DA1 New ItemGUID= Old RevisionGUID=D816CC1A-904D-42B7-81F4-C1A8650FA75B New RevisionGUID=
+Change Managed Component Library Link : Designator=L7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=17D8165B-A139-4395-9E11-0E8742867DA1 New ItemGUID= Old RevisionGUID=D816CC1A-904D-42B7-81F4-C1A8650FA75B New RevisionGUID=
+Change Managed Component Library Link : Designator=L8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=17D8165B-A139-4395-9E11-0E8742867DA1 New ItemGUID= Old RevisionGUID=D816CC1A-904D-42B7-81F4-C1A8650FA75B New RevisionGUID=
+Change Managed Component Library Link : Designator=L9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=17D8165B-A139-4395-9E11-0E8742867DA1 New ItemGUID= Old RevisionGUID=D816CC1A-904D-42B7-81F4-C1A8650FA75B New RevisionGUID=
+Change component parameters: Designator = "L4" ("L4"); Footprint = "WE-TI-LM-STBG"; UniqueID = "\QOHHPZLB" ("\QOHHPZLB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "19R472C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L5" ("L5"); Footprint = "WE-TI-LM-STBG"; UniqueID = "\FZLICADN" ("\FZLICADN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "19R472C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L6" ("L6"); Footprint = "WE-TI-LM-STBG"; UniqueID = "\JGZWHOAW" ("\JGZWHOAW")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "19R472C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L7" ("L7"); Footprint = "WE-TI-LM-STBG"; UniqueID = "\CFLYUNVS" ("\CFLYUNVS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "19R472C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L8" ("L8"); Footprint = "WE-TI-LM-STBG"; UniqueID = "\GDKEUFIG" ("\GDKEUFIG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "19R472C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "L9" ("L9"); Footprint = "WE-TI-LM-STBG"; UniqueID = "\WAXMVWXK" ("\WAXMVWXK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "19R472C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_1 Pin=L5-1
+Added Pin To Net: NetName=NetJ3_1 Pin=L6-1
+Added Pin To Net: NetName=NetJ4_1 Pin=L7-1
+Added Pin To Net: NetName=NetJ5_1 Pin=L8-1
+Added Pin To Net: NetName=NetL5_2 Pin=U4-3
+Added Pin To Net: NetName=NetL5_2 Pin=U4-4
+Added Pin To Net: NetName=NetL6_2 Pin=U4-5
+Added Pin To Net: NetName=NetL6_2 Pin=U4-6
+Added Pin To Net: NetName=NetL7_2 Pin=U5-1
+Added Pin To Net: NetName=NetL7_2 Pin=U5-2
+Added Pin To Net: NetName=NetL8_2 Pin=U5-3
+Added Pin To Net: NetName=NetL8_2 Pin=U5-4

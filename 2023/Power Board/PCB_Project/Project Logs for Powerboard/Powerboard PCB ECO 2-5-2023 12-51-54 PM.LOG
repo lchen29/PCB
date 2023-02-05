@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=U4-11
+Removed Pin From Net: NetName=GND Pin=U5-11
+Removed Pin From Net: NetName=GND Pin=U6-2
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Net Name : Old Net Name=NetC2_2 New Net Name=36V
+Change Net Name : Old Net Name=NetC5_1 New Net Name=SW 24-1
+Change Net Name : Old Net Name=NetC10_1 New Net Name=SW 24-2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=SW 12
+Change Net Name : Old Net Name=NetC16_1 New Net Name=8.4V in
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=MW1
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=MW2
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=MW3
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=MW1.2
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=MW2.2
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=MW3.2
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=12V OUT
+Change Net Name : Old Net Name=NetJ10_1 New Net Name=2.25V
+Change Net Name : Old Net Name=NetJ13_1 New Net Name=Hall 1.2
+Change Net Name : Old Net Name=NetJ13_2 New Net Name=Hall 2.2
+Change Net Name : Old Net Name=NetJ13_3 New Net Name=Hall 3.2
+Change Net Name : Old Net Name=NetJ14_1 New Net Name=Hall 1
+Change Net Name : Old Net Name=NetJ14_2 New Net Name=Hall 2
+Change Net Name : Old Net Name=NetJ14_3 New Net Name=Hall 3
+Added Pin To Net: NetName=5V Pin=C17-1
+Added Pin To Net: NetName=5V Pin=U4-11
+Added Pin To Net: NetName=5V Pin=U5-11
+Added Pin To Net: NetName=5V Pin=U6-2
+Added Net: Name=5V
