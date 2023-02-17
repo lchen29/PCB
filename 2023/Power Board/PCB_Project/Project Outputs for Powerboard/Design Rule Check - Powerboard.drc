@@ -1,0 +1,92 @@
+Protel Design System Design Rule Check
+PCB File : E:\Files\BajaSAE\PCB\2023\Power Board\PCB_Project\Powerboard.PcbDoc
+Date     : 2/17/2023
+Time     : 2:38:43 AM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=400mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=16mil) (Conductor Width=6mil) (Air Gap=6mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=13mil) (Max=265mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad -1(3580mil,680mil) on Multi-Layer And Region (3 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad C10-1(2624.066mil,1580mil) on Top Layer And Text "R5" (2537mil,1512mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad C10-2(2565.01mil,1580mil) on Top Layer And Text "R5" (2537mil,1512mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.32mil < 6mil) Between Pad R11-1(2780mil,370mil) on Top Layer And Text "R11" (2747.51mil,395.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.32mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.453mil < 6mil) Between Pad R12-1(2910mil,366.93mil) on Top Layer And Text "R12" (2872.512mil,395.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.453mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad U2-1(2673.908mil,1734.714mil) on Top Layer And Text "*" (2725.01mil,1780mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad U2-2(2673.908mil,1754.404mil) on Top Layer And Text "*" (2725.01mil,1780mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.909mil < 6mil) Between Pad U2-3(2666.034mil,1780mil) on Top Layer And Text "*" (2725.01mil,1780mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.909mil]
+Rule Violations :8
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Region (0 hole(s)) Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Region (34 hole(s)) Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "Alex Aquino" (5675mil,-1603.342mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "High Voltage Electronics " (5575mil,-1423.762mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J10" (4830.01mil,1564.976mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J11" (4714.979mil,1969.99mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J12" (4744.976mil,2129.99mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J13" (755.024mil,-379.99mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J14" (-735.646mil,680.01mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J2" (-680.01mil,1400.016mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J3" (-699.99mil,1179.984mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J4" (4390.016mil,3000.01mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J5" (4799.99mil,2960.016mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J6" (-689.984mil,1850.01mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "J9" (4659.984mil,1749.99mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "REV 2.1" (5840mil,-1755mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "S1" (4420.013mil,2670.01mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "S2" (4450.016mil,2300.01mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "S3" (4430.016mil,2490.01mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 15mil) Between Board Edge And Text "S4" (4430.016mil,2820.01mil) on Top Overlay 
+Rule Violations :20
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+PCB Health Issue Category : Reference Point Outside the Component Area
+   Reference point outside the component area: Component U4-Motor controller (645.668mil,2890mil) on Top Layer
+Issues :1
+
+PCB Health Issue Category : Duplicate Component Designators
+   Duplicated Designators: Small Component -Solenoid 1 (3580mil,680mil) on Top Layer
+   Duplicated Designators: Small Component -Motor winding 1 (310mil,3040mil) on Top Layer
+Issues :2
+
+
+Violations Detected : 28
+Waived Violations : 0
+PCB Health Issues : 3
+Time Elapsed        : 00:00:02
