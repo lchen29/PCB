@@ -1,0 +1,12 @@
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Footprint: Footprint Not Found INDPRD600W80D1200H2100
+Change Component Designator: OldDesignator=12V NewDesignator=D3
+Change Component Designator: OldDesignator=24V NewDesignator=D2
+Change Component Designator: OldDesignator=BATTERY NewDesignator=D1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=24v
+Added Member To Class: ClassName=PowerboardV2Sheet2 Member=Component J3 Motor winding 3
+Added Member To Class: ClassName=PowerboardV2Sheet2 Member=Component J7 Battery in (36V)

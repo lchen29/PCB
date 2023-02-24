@@ -1,0 +1,9 @@
+Change Component Comment : Designator=R44 Old Comment=ESR10EZPJ472 New Comment=200
+Added Component: Designator=S1(Screw M3)
+Added Component: Designator=S2(Screw M3)
+Added Component: Designator=S3(Screw M3)
+Added Component: Designator=S4(Screw M3)
+Added Member To Class: ClassName=SEX Member=Component S1 Screw M3
+Added Member To Class: ClassName=SEX Member=Component S2 Screw M3
+Added Member To Class: ClassName=SEX Member=Component S3 Screw M3
+Added Member To Class: ClassName=SEX Member=Component S4 Screw M3

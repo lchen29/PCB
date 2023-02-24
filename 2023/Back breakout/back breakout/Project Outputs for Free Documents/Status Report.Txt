@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [backBreakoutPCB.PcbDoc]
+   Generated File[backBreakoutPCB.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:15:37 PM On 2/8/2023

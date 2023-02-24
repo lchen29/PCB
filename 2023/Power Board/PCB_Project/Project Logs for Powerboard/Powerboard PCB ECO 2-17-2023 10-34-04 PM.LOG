@@ -1,0 +1,9 @@
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Component Designator: OldDesignator=24V NewDesignator=24V_1
+Change Net Name : Old Net Name=Net24V_2 New Net Name=Net24V_1_2
+Added Member To Class: ClassName=PowerboardV2Sheet2 Member=Component 24V_1 LTST-C171GKT

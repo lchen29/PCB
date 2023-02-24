@@ -1,0 +1,13 @@
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Footprint: Footprint Not Found WE-TI-LM-STBG
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=J8
+Change Component Designator: OldDesignator= NewDesignator=J15
+Change Net Name : Old Net Name=NetR6_2 New Net Name=24V OUT 1
+Added Member To Class: ClassName=PowerboardV2Sheet2 Member=Component J1 Motor winding 1
+Added Member To Class: ClassName=PowerboardV2Sheet2 Member=Component J8 Solenoid 1
+Added Member To Class: ClassName=PowerboardV2Sheet2 Member=Component J15 8.4 in

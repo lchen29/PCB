@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Microcontroller_Redo.PcbDoc]
+   Generated File[Microcontroller_Redo.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:07:15 PM On 2/8/2023
