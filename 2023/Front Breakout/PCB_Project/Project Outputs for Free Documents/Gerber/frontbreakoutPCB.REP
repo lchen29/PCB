@@ -9,7 +9,7 @@ Generating : Bottom Component Center
 
 
 Used DCodes :
-    D60
+    D62
 *************************************************************
 
 *************************************************************
@@ -20,9 +20,9 @@ Generating : Bottom 3D Body
 
 
 Used DCodes :
-    D56
     D58
     D60
+    D62
 *************************************************************
 
 *************************************************************
@@ -33,9 +33,9 @@ Generating : Bottom Courtyard
 
 
 Used DCodes :
-    D56
-    D60
-    D61
+    D58
+    D62
+    D63
 *************************************************************
 
 *************************************************************
@@ -46,78 +46,40 @@ Generating : Bottom Assembly
 
 
 Used DCodes :
-    D56
+    D58
 *************************************************************
 
 *************************************************************
-Generating : Top Component Center
-      File : frontbreakoutPCB.GM16
+Generating : Top Layer
+      File : frontbreakoutPCB.GTL
 
-    Adding Layer      : Top Component Center
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D11
+    D12
+    D15
+    D16
+    D20
+    D21
+    D26
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
 *************************************************************
 
 *************************************************************
-Generating : Top Courtyard
-      File : frontbreakoutPCB.GM15
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D60
-    D61
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : frontbreakoutPCB.GM13
-
-    Adding Layer      : Top 3D Body
-
-
-Used DCodes :
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Top Assembly
-      File : frontbreakoutPCB.GM5
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D60
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : frontbreakoutPCB.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : frontbreakoutPCB.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : frontbreakoutPCB.GPB
+Generating : Bottom Layer
+      File : frontbreakoutPCB.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -127,13 +89,18 @@ Generating : Bottom Pad Master
 Used DCodes :
     D15
     D16
-    D22
-    D23
+    D20
+    D21
+    D26
+    D29
     D30
     D31
     D32
     D33
     D34
+    D35
+    D36
+    D37
     D38
     D39
     D40
@@ -145,56 +112,57 @@ Used DCodes :
     D46
     D47
     D48
+    D49
+    D50
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : frontbreakoutPCB.GPT
+Generating : Top Courtyard
+      File : frontbreakoutPCB.GM15
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Courtyard
 
 
 Used DCodes :
-    D11
-    D12
-    D15
-    D16
-    D22
-    D23
-    D30
-    D31
-    D32
-    D33
-    D34
+    D62
+    D63
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : frontbreakoutPCB.GTO
+Generating : Top 3D Body
+      File : frontbreakoutPCB.GM13
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : frontbreakoutPCB.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : frontbreakoutPCB.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D10
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : frontbreakoutPCB.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
+    D57
+    D58
+    D59
+    D60
 *************************************************************
 
 *************************************************************
@@ -223,23 +191,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : frontbreakoutPCB.GBO
+Generating : Bottom Solder
+      File : frontbreakoutPCB.GBS
 
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D55
-    D56
-    D57
-    D58
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : frontbreakoutPCB.GBL
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -249,59 +204,29 @@ Generating : Bottom Layer
 Used DCodes :
     D15
     D16
+    D17
+    D18
+    D19
+    D20
+    D21
     D22
     D23
-    D27
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : frontbreakoutPCB.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D15
-    D16
-    D22
-    D23
+    D24
+    D25
+    D26
     D27
     D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
+    D40
+    D42
+    D44
+    D45
+    D48
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
 *************************************************************
 
 *************************************************************
@@ -330,13 +255,38 @@ Used DCodes :
     D24
     D25
     D26
+    D27
+    D28
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : frontbreakoutPCB.GBS
+Generating : Top Pad Master
+      File : frontbreakoutPCB.GPT
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D15
+    D16
+    D20
+    D21
+    D26
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : frontbreakoutPCB.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -346,26 +296,84 @@ Generating : Bottom Solder
 Used DCodes :
     D15
     D16
-    D17
-    D18
-    D19
     D20
     D21
-    D22
-    D23
-    D24
-    D25
     D26
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
     D38
+    D39
+    D40
     D41
+    D42
+    D43
     D44
     D45
+    D46
+    D47
     D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : frontbreakoutPCB.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : frontbreakoutPCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : frontbreakoutPCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : frontbreakoutPCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : frontbreakoutPCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
 *************************************************************
 
