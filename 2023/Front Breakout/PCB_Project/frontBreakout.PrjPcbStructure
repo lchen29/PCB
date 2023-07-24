@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=frontbreakoutSchematic.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=moreConnectors.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=SEX.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=ssegs_and_registers.SchDoc|SheetNumber=3
