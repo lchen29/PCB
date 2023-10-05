@@ -1,0 +1,16 @@
+Importer Log Report
+Project : SparkFun-MicroMod.Library.PrjPcb
+
+Section : Analyze Document - D:\Luke\Downloads\SparkFun-Eagle-Libraries-main\SparkFun-MicroMod.lbr
+    Analyzing data of D:\Luke\Downloads\SparkFun-Eagle-Libraries-main\SparkFun-MicroMod.lbr
+    Load settings
+    Load layers 150
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 11
+    ERROR: Unhandled typedimension
+    ERROR: Unhandled typedimension
+    Load Symbols 2
+    Load DeviceSets 2
+EndSection
