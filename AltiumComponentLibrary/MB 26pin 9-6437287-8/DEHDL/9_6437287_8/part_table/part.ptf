@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '9_6437287_8'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "9-6437287-8" (!) = "", "964372878", "Other", "571-9-6437287-8", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/9-6437287-8?qs=c1ErmWplw0NzPHbjoONVkQ%3D%3D", "Header horizontal 26 way pin SuperSeal", "https://componentsearchengine.com/Datasheets/2/9-6437287-8.pdf", "27.9 mm"
+END_PART
+
+END.
