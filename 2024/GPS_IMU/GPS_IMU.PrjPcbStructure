@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=5V_to_3V_LDO.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=5V_to_3V_LDO.SchDoc|FileName=12V_to_5V.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=5V_to_3V_LDO.SchDoc|FileName=STM32.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=5V_to_3V_LDO.SchDoc|FileName=USB.SchDoc|SheetNumber=4
